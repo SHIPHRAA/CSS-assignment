@@ -1,0 +1,64 @@
+.Biodata{
+	height: 100px;
+	width: 200px;
+	background-color: aliceblue;
+	padding-top: 140px;
+	padding-left: 120px;
+	display: inline-block;
+}
+.Photo{
+	height: 100px;
+	width: 200px;
+	background-color: lightblue;
+	padding-top: 140px;
+	padding-left: 120px;
+	display: inline-block;
+	margin-left: 320px;
+}
+.Educationhistory{
+	height: 150px;
+	width: 200px;
+	background-color: grey;
+	padding-top: 140px;
+	padding-left: 120px;
+	margin-left: 320px;
+}
+.Hobbies{
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	padding-top: 140px;
+	padding-left: 120px;
+    display: inline-block;
+}
+.Contact{
+	height: 200px;
+	width: 200px;
+	background-color: darkcyan;
+    padding-top: 140px;
+	padding-left: 120px;
+	margin-left: 320px;
+	display: inline-block;
+}
+.Biodata:Hover{
+	background-color:red ;
+	transition: 1s;
+}
+
+.Photo:Hover{
+	background-color:darkgoldenrod ;
+	transition: 1s;
+}
+
+.Educationhistory:Hover{
+	background-color:lawngreen;
+	transition: 1s;
+}
+.Hobbies:Hover{
+	background-color:darkgrey;
+	transition: 1s;
+}
+.Contact:Hover{
+	background-color:yellowgreen;
+	transition: 1s;
+}
